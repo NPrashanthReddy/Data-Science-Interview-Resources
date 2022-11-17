@@ -1,3 +1,4 @@
+
 # Progress towards my interview preparation
 
 ## Probability and Statistics
@@ -7,9 +8,9 @@
 * -[ ] [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
 * -[x] [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹 (**BAM!!**)
 
-    **Probability** - P(X|$\lambda$) _How likely is distribution producing this datapoint_
+    **Probability** - P(X | $\lambda$ ) _How likely is distribution producing this datapoint_
     
-    **Likelihood**  - P($\lambda$|X) _How likely is our data being coming out of this distribution_
+    **Likelihood**  - P( $\lambda$ | X) _How likely is our data being coming out of this distribution_
 
 * -[ ] [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
 * -[ ] [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
