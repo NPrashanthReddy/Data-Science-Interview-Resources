@@ -3,9 +3,10 @@
 
 ## DBMS 
 - [x] Functional Dependencies
-      1. FDs
-      2. Attribute closure (super keys and candidate keys(minimal super key)) (cyclical FDs)
-      3. FD sets - closure (membership, subset and superset, closure and equality (F covering G and G covering F)
+
+     1. FDs
+     2. Attribute closure (super keys and candidate keys(minimal super key)) (cyclical FDs)
+     3. FD sets - closure (membership, subset and superset, closure and equality (F covering G and G covering F)
 - [ ] Normalization
 ## Probability and Statistics
 * -[x] [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
