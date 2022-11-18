@@ -1,6 +1,12 @@
 
 # Progress towards my interview preparation
 
+## DBMS 
+- [x] Functional Dependencies
+      1. FDs
+      2. Attribute closure (super keys and candidate keys(minimal super key)) (cyclical FDs)
+      3. FD sets - closure (membership, subset and superset, closure and equality (F covering G and G covering F)
+- [ ] Normalization
 ## Probability and Statistics
 * -[x] [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * -[x] [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
