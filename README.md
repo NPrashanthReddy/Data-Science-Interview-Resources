@@ -12,7 +12,7 @@
 * -[x] [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * -[x] [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
 * -[ ] [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
-* -[ ] [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
+* -[x] [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
 * -[x] [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹 (**BAM!!**)
 
     **Probability** - P(X | $\lambda$ ) _How likely is distribution producing this datapoint_
@@ -31,7 +31,7 @@
 ## SQL and Data Acquisition
 This is probably the entry point of your Data Science project, SQL is one of the most important skills for any Data Scientist.
 
-* -[ ] [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
+* -[x] [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
 * -[ ] [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
 * -[ ] [30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews) 📘
 * -[ ]  [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
