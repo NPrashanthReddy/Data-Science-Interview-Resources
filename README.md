@@ -20,9 +20,9 @@
     **Likelihood**  - P( $\lambda$ | X) _How likely is our data being coming out of this distribution_
 
 * -[ ] [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
-* -[ ] [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
+* -[x] [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
 * -[ ] [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 📘
-* -[ ] [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
+* -[x] [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
 * -[ ] [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 * -[ ] [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 
@@ -46,7 +46,14 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ## Data Preparation and Visualization
 
 * -[ ] [5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2) 📘 
-* -[ ] [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
+* -[x] [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
+
+First understand the type of missing values
+1. Drop the rows -- might risk losing valuable data (based on the amount of missing data) - it's correlation with the target variable
+2. Impute with mean/median -- works for numeric fails for categorical (use mode for this!) 
+3. Imputing with const/zero values (~bias~ might be there)
+4. kNN imputation | + More accurate | - Expensive and sensitive to outliers (if N is not chosen properly
+
 * -[ ] [A Brief Overview of Outlier Detection Techniques](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) 📘 
 * -[ ] [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
 * -[ ] [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea) 📘
