@@ -196,7 +196,13 @@ Case studies are extremely important for interviews, below are some resources to
 Going through these will definately add extra brownie points, so don't miss these if you got time.
 
 * -[ ] [Top 13 Skills To Become a Rockstar Data Scientist](https://towardsdatascience.com/top-13-skills-to-become-a-rockstar-data-scientist-faf2f97e655d) 📘 
-* -[ ] [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52) 📘
+* -[x] [Understand these 4 ML concepts to sound like a master](https://towardsdatascience.com/understand-these-4-advanced-concepts-to-sound-like-a-machine-learning-master-d32843840b52) 📘
+    **Precision vs recall** 
+Able to recall all the desired instances how precise are the recalled instances
+    
+    **Classification**: Correct classification, no leakage, unbalanced classes
+    
+    **Deep Learning**
 * -[ ] [12 things I wish I knew before starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e) 📘
 * -[ ] [Understand the Data Science pipeline](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3) 📘
 * -[ ] [Kaggle Data Science Glossary](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) 📘
